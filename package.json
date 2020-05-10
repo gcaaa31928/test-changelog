@@ -1,0 +1,11 @@
+{
+  "name": "test-changelog",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gcaaa31928/test-changelog.git",
+  "author": "gcaaa31928 <gcaaa31928@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^8.0.0"
+  }
+}
